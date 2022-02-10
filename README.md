@@ -3,7 +3,7 @@
   <p>I'm a Coloradan cybersecurity student</p>
 </div>
 <hr>
-<div id="badges" align="center">
+<div id="social_links" style="float_left">
   <a href="mailto:victoneux@protonmail.com">
     <img src="https://img.shields.io/badge/Mail-%2311121d?logo=protonmail&logoColor=white&style=for-the-badge">
   </a>
