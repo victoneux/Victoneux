@@ -4,8 +4,10 @@
 </div>
 <hr>
 <div id="skills" align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1" width="35px" height="35px">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.logolynx.com%2Fimages%2Flogolynx%2Fs_0d%2F0d35ef6c8d4fdaf0590228404dc6448b.png&f=1&nofb=1" width="35px" height="35px">
+  <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" width="35px" height="35px">
+  <img src="http://verekia.com/_pages/css3/introduction-css3/img/css3-logo.png" width="35px" height="35px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="35px" height="35px">
+  <img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="35px" height="35px">
 </div>
 <hr>
 <div id="social_links">
