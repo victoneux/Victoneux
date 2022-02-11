@@ -4,8 +4,8 @@
 </div>
 <hr>
 <div id="skills" align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.logolynx.com%2Fimages%2Flogolynx%2Fs_0d%2F0d35ef6c8d4fdaf0590228404dc6448b.png&f=1&nofb=1">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1" width="100px" height="100px">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.logolynx.com%2Fimages%2Flogolynx%2Fs_0d%2F0d35ef6c8d4fdaf0590228404dc6448b.png&f=1&nofb=1" width="100px" height="100px">
 </div>
 <hr>
 <div id="social_links">
