@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Arch%20Linux-%23161b22?logo=archlinux&logoColor=white&style=for-the-badge" align="right">
   </a>
   <a href="https://awesomewm.org/">
-    <img src="https://img.shields.io/badge/AwesomeWM-%231b1622?logo=awesomewm&logoColor=white&style=for-the-badge" align="right">
+    <img src="https://img.shields.io/badge/AwesomeWM-%23161b22?logo=awesomewm&logoColor=white&style=for-the-badge" align="right">
   </a>
 </div>
 <div id="body" align="center">
