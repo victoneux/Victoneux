@@ -3,6 +3,11 @@
   <p>16 year old <b>student</b>, <b>IT enthusiast</b>, and <b>developer</b></p>
 </div>
 <hr>
+<div id="skills" align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.logolynx.com%2Fimages%2Flogolynx%2Fs_0d%2F0d35ef6c8d4fdaf0590228404dc6448b.png&f=1&nofb=1">
+</div>
+<hr>
 <div id="social_links">
   <a href="mailto:victoneux@protonmail.com">
     <img src="https://img.shields.io/badge/Mail-%23161b22?logo=protonmail&logoColor=white&style=for-the-badge" align="left">
