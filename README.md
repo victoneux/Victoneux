@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <p>Hi, i'm Vic!</p>
-  <p>16 year old <b>student</b>, <b>IT enthusiast</b>, and <b>developer</b></p>
+  <p>17 year old <b>student</b>, <b>IT enthusiast</b>, and <b>developer</b></p>
 </div>
 <hr>
 <div id="social_links">
