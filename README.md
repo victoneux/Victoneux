@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <p>Hi, i'm Vic!</p>
-  <p>17 year old <b>student</b>, <b>tech enthusiast</b>, and <b>developer</b></p>
+  <p><b>student</b>, <b>engineer</b>, and <b>developer</b></p>
 </div>
 <hr>
 <div id="social_links">
@@ -11,11 +11,11 @@
     <img src="https://img.shields.io/badge/Discord-%23161b22?logo=discord&logoColor=white&style=for-the-badge" align="left">
   </a>
   
-  <a href="https://archlinux.org/">
-    <img src="https://img.shields.io/badge/Arch%20Linux-%23161b22?logo=archlinux&logoColor=white&style=for-the-badge" align="right">
+  <a href="https://telegram.me/victoneux">
+    <img src="https://img.shields.io/badge/Telegram-%23161b22?logo=telegram&logoColor=white&style=for-the-badge" align="right">
   </a>
-  <a href="https://github.com/hyprwm/Hyprland">
-    <img src="https://img.shields.io/badge/Hyprland-%23161b22?style=for-the-badge" align="right">
+  <a href="https://steamcommunity.com/id/victoneux/">
+    <img src="https://img.shields.io/badge/Steam-%23161b22?logo=steam&logoColor=white&style=for-the-badge" align="right">
   </a>
 </div>
 <div id="body" align="center">
