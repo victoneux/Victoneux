@@ -7,15 +7,15 @@
   <a href="mailto:victoneux@protonmail.com">
     <img src="https://img.shields.io/badge/Mail-%23161b22?logo=protonmail&logoColor=white&style=for-the-badge" align="left">
   </a>
-  <a href="https://discord.com/users/742193269655601272">
-    <img src="https://img.shields.io/badge/Discord-%23161b22?logo=discord&logoColor=white&style=for-the-badge" align="left">
+  <a href="https://steamcommunity.com/id/victoneux/">
+    <img src="https://img.shields.io/badge/Steam-%23161b22?logo=steam&logoColor=white&style=for-the-badge" align="right">
   </a>
   
   <a href="https://telegram.me/victoneux">
     <img src="https://img.shields.io/badge/Telegram-%23161b22?logo=telegram&logoColor=white&style=for-the-badge" align="right">
   </a>
-  <a href="https://steamcommunity.com/id/victoneux/">
-    <img src="https://img.shields.io/badge/Steam-%23161b22?logo=steam&logoColor=white&style=for-the-badge" align="right">
+  <a href="https://discord.com/users/742193269655601272">
+    <img src="https://img.shields.io/badge/Discord-%23161b22?logo=discord&logoColor=white&style=for-the-badge" align="left">
   </a>
 </div>
 <div id="body" align="center">
